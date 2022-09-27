@@ -1,5 +1,6 @@
 body {color: lightgreen;background-color: black;font-family;arial}
-h1 {color: yellow;background-color: gray;margin-top: auto;text-transform: uppercase}
+h1 {color: yellow;background-color: darkslategray;margin-top: auto;text-transform: uppercase}
 h2 {color: greenyellow;margin-top: auto; text-transform: uppercase;}
 p {color: darkgreen;}
 li {text-indent: 2em;}
+img {background-image:  linear-gradient(green, yellow); image-rendering: crisp-edges; border: 2px; border-color: "darkslategray"}

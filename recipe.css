@@ -1,6 +1,9 @@
-body {color: lightgreen;background-color: black;font-family;arial}
-h1 {color: yellow;background-color: darkslategray;margin-top: auto;text-transform: uppercase}
-h2 {color: greenyellow;margin-top: auto; text-transform: uppercase;}
-p {color: darkgreen;}
-li {text-indent: 2em;}
-img {background-image:  linear-gradient(green, yellow); image-rendering: crisp-edges; border: 2px; border-color: "darkslategray"}
+body {color: lightgreen; background-color: black; font-family;arial; text-align: center; width: 80%}
+h1 {color: yellow; background-color: darkslategray; margin-top: auto; text-transform: uppercase; text-align: center; width: 80%}
+h2 {color: greenyellow; margin-top: auto; text-transform: uppercase; text-align: center; width: 80%}
+p {color: darkgreen; text-align: center; width: 80%}
+ul.list1 {display: inline-block; text-align:  left; width: 80%; float: left}
+ol.list1 {display: inline-block; text-align:  left; width: 80%; float: left}
+body {margin-left:  100px;}
+a:link {color: forestgreen; text-decoration-color: greenyellow;}
+img {text-align: left;}
